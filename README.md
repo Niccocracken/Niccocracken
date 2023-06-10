@@ -1,27 +1,26 @@
-<img width="706" heigth="289" src="https://github.com/Niccocracken/Niccocracken/assets/110624599/db55bb05-9a5f-4a4b-83d0-17a4b1fa04d5">
+<img width="706" height="289" src="https://github.com/Niccocracken/Niccocracken/assets/110624599/db55bb05-9a5f-4a4b-83d0-17a4b1fa04d5">
 
 # 👉Sobre mí
+👓**Habilidades:**          
+* HTML
+* JavaScript
+* CSS 
+* C
+* Python
 
-👓<b>Habilidades:</b>
-<li>HTML</li> 
-<li>JavaScript</li>
-<li>CSS </li>
-<li>C</li>
-<li>Python</li>
-
-</br><b>📚Educación:</b>
-<li>Ingeniería en Sistemas / Universidad Central de Colombia (En proceso)</li>
-<li>Certified Tech Developer / Digital House (En proceso)</li>
+**📚Educación:**
+* Ingeniería en Sistemas / Universidad Central de Colombia (En proceso)
+* Certified Tech Developer / Digital House (En proceso)
 
 ### 👥Colegas relacionados
-<li><a href="https://github.com/Dave965">David Abraham Noriega Zamora</a></li>
+![88354465](https://github.com/Niccocracken/Niccocracken/assets/110624599/e8559822-aa93-4cc1-8cb6-94dc05f971bd) 
+[David Abraham Noriega Zamora](https://github.com/Dave965)
 
 ## 🍕Curiosidades
 
-<p>Nivel B1 en inglés. Me interesa la creación de páginas web, videojuegos y aplicaciones.</p>
+Nivel B1 en inglés. Me interesa la creación de páginas web, videojuegos y aplicaciones.
 
-#### Redes Sociales
-<p dir="auto"><a href="https://youtube.com/@niccolasgn1669"><img src="https://camo.githubusercontent.com/fdb2ce03fbe5f7caf7ea42b871b041aab42162c6993e479569ad97d064548d66/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266d6573736167653d796f757475626526636f6c6f723d464630303030266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="Youtube" data-canonical-src="https://img.shields.io/static/v1?label=&amp;message=youtube&amp;color=FF0000&amp;logo=youtube&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;"></a>
-<a href="https://www.twitch.tv/niccocracken"><img src="https://camo.githubusercontent.com/c43f8aec7e829dbd86dba3435bf493acb8a61280aae6fc5a3e5c8c794b37e701/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266d6573736167653d74776974636826636f6c6f723d363434316135266c6f676f3d747769746368266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="twitch" data-canonical-src="https://img.shields.io/static/v1?label=&amp;message=twitch&amp;color=6441a5&amp;logo=twitch&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;"></a>
-<a href="https://www.tiktok.com/@niccocracken"><img src="https://camo.githubusercontent.com/20b13cea21ad521c98af12782fe764368bb2636866d44b76ce8611bb42d11da9/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266d6573736167653d74696b746f6b26636f6c6f723d666630303530266c6f676f3d74696b746f6b266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="tiktok" data-canonical-src="https://img.shields.io/static/v1?label=&amp;message=tiktok&amp;color=ff0050&amp;logo=tiktok&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;"></a>
-<a href="https://www.linkedin.com/in/niccolas-garc%C3%ADa-ni%C3%B1o-759161252/"><img src="https://camo.githubusercontent.com/f805d3593b818286d2dd101be4ef6dc310a2e9b4de4afcb13753f00c52fadd08/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266d6573736167653d6c696e6b6564696e26636f6c6f723d306537366138266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="linkedin" data-canonical-src="https://img.shields.io/static/v1?label=&amp;message=linkedin&amp;color=0e76a8&amp;logo=linkedin&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;"></a>
+<a href="https://youtube.com/@niccolasgn1669"><img src="https://camo.githubusercontent.com/fdb2ce03fbe5f7caf7ea42b871b041aab42162c6993e479569ad97d064548d66/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266d6573736167653d796f757475626526636f6c6f723d464630303030266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"></a> 
+<a href="https://www.twitch.tv/niccocracken"><img src="https://camo.githubusercontent.com/c43f8aec7e829dbd86dba3435bf493acb8a61280aae6fc5a3e5c8c794b37e701/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266d6573736167653d74776974636826636f6c6f723d363434316135266c6f676f3d747769746368266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"></a> 
+<a href="https://www.tiktok.com/@niccocracken"><img src="https://camo.githubusercontent.com/20b13cea21ad521c98af12782fe764368bb2636866d44b76ce8611bb42d11da9/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266d6573736167653d74696b746f6b26636f6c6f723d666630303530266c6f676f3d74696b746f6b266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"></a> 
+<a href="https://www.linkedin.com/in/niccolas-garc%C3%ADa-ni%C3%B1o-759161252/"><img src="https://camo.githubusercontent.com/f805d3593b818286d2dd101be4ef6dc310a2e9b4de4afcb13753f00c52fadd08/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266d6573736167653d6c696e6b6564696e26636f6c6f723d306537366138266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"></a> 
