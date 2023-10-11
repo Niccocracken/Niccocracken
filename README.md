@@ -2,7 +2,7 @@
 
 # 👉Sobre mí
 
-Soy estudiante universitario apasionado por la programación, estoy en busca de proyectos desafiantes para colaborar y aprender.
+Soy estudiante universitario, estoy en busqueda de proyectos para colaborar y aprender.
 
 👓**Habilidades:**          
 * HTML
