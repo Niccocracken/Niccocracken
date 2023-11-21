@@ -1,4 +1,4 @@
-![home-background (1)](https://github.com/Niccocracken/Niccocracken/assets/110624599/4c0e29ca-e667-4250-8fb9-660a9d6d67df)
+![Foto cool B)](https://github.com/Niccocracken/Niccocracken/assets/110624599/0474bffc-5cc6-4ce3-893f-6a08a10047f7)
 
 # 👉Sobre mí
 
