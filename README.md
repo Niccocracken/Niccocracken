@@ -1,4 +1,4 @@
-![Foto cool B)](https://github.com/Niccocracken/Niccocracken/assets/110624599/0474bffc-5cc6-4ce3-893f-6a08a10047f7)
+<img src='https://github.com/Niccocracken/Niccocracken/assets/110624599/0474bffc-5cc6-4ce3-893f-6a08a10047f7' width=100% height=300 />
 
 # 👉Sobre mí
 
