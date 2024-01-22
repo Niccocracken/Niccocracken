@@ -1,4 +1,4 @@
-<img src='https://github.com/Niccocracken/Niccocracken/assets/110624599/3e544e44-3a44-40c3-9254-fa517611a45f' width=100% height=400 />
+<img src='https://github.com/Niccocracken/Niccocracken/assets/110624599/3e544e44-3a44-40c3-9254-fa517611a45f' width=100% height=300 />
 
 # 👉Sobre mí
 
