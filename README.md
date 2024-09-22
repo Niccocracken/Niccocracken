@@ -6,7 +6,7 @@ Estudiante en busqueda de proyectos para colaborar y aprender.
 
 **📚Educación:**
 * Ingeniería en Sistemas / Universidad Central de Colombia (En proceso)
-* Certified Tech Developer / Digital House (En proceso)
+* Certified Tech Developer / Digital House (Finalizado)
 
 ## 🍕Curiosidades
 
